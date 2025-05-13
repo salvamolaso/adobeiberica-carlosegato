@@ -1,4 +1,4 @@
 mappings:
- - /content/adobeiberica-solutionsconsulting/:/
- - /content/adobeiberica-solutionsconsulting/metadata.json:/metadata.json
- - /content/adobeiberica-solutionsconsulting/redirects.json:/redirects.json
+ - /content/moeve/:/
+ - /content/moeve/metadata.json:/metadata.json
+ - /content/moeve/redirects.json:/redirects.json
